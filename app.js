@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 });
 
-// deleting
+// deleting a todo
 $(document).ready(function () {
   $('ul').on('click', 'span', function (event) {
     $(this)
